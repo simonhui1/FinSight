@@ -1,1 +1,1 @@
-# etherscan_wash_trading_detection_project
+# Crypto Project
