@@ -1,4 +1,4 @@
-# FinSight NeuralNet: Advanced Financial Forecasting with Neural Networks
+# FinSight NeuralNet: Advanced Financial Forecasting with Neural Networks (Ongoing Project)
 
 ## Overview of Business Problem and Project
 
